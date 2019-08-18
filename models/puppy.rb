@@ -5,3 +5,7 @@ class Puppy
     @name = name
     @breed = breed
     @age = age
+    @months_old = months_old
+
+end
+end
